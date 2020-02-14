@@ -17,9 +17,13 @@
     "svelte",
     "bulma"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thompson4822/svelte-bulma-lib.git"
+  },
   "files": [
     "src",
     "dist"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

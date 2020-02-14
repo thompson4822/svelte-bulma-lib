@@ -1,4 +1,4 @@
-# svelteBulmaLib
+# svelte-bulma-lib
 ---
 
 The purpose of this library is to provide Svelte versions of common Bulma components.
